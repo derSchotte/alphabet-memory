@@ -206,6 +206,7 @@ export function GameBoard() {
           </div>
         )}
       </div>
+      <div>Test</div>
     </div>
   );
 }
